@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\Artificial Intelligence DJ"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Artificial Intelligence DJ"
+    }
+}
