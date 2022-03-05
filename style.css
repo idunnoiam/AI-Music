@@ -19,3 +19,8 @@ canvas {
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(160, 142, 142);
 }
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
